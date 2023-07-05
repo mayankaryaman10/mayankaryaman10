@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.shutterstock.com/image-illustration/software-development-different-devices-application-260nw-2122820336.jpg)]
 <h1 align="center">Hi 👋, I'm Mayank Aryaman</h1>
 <h3 align="center">I am a code under Development</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">

@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mayankaryaman10.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mayank Aryaman</h1>
 <h3 align="center">I am a code under Development</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">

@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Aryaman</h1>
 <h3 align="center">I am a code under Development</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">

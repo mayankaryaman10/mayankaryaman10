@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankaryaman10&show_icons=true&locale=en" alt="mayankaryaman10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankaryaman10&" alt="mayankaryaman10" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/mayankaryaman10/mayankaryaman10/edit/main/github-contribution-grid-snake.svg)

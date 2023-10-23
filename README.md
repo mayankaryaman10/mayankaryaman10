@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my startup **Exponance Twirltree**
+- 🔭 I’m currently working in a startup **Exponance Twirltree LLP**
 
 - 🌱 I’m currently exploaring **Servicenow** software
 
